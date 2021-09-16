@@ -22,7 +22,7 @@ import com.econome.domain.Subscriber;
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 
-public class ReportGenerator2 {
+public class ReportGenerator {
 
 	static final String rootFolder = "/Users/schwaaamp/Documents/Econome/Econome_Mailchimp_export_091221/";
 	static final File membersFolder = new File(rootFolder.concat("lists/members/"));

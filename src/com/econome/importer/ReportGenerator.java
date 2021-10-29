@@ -131,7 +131,6 @@ public class ReportGenerator {
 					}
 				}
 			}
-			//comment
 		}
 		System.out.println("Finished determining the most recent open email timestamp by subscriber");
 	}

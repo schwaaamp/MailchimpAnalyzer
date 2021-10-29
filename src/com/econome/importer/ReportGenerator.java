@@ -132,7 +132,6 @@ public class ReportGenerator {
 				}
 			}
 		}
-		//test commit wtih ssh
 		System.out.println("Finished determining the most recent open email timestamp by subscriber");
 	}
 

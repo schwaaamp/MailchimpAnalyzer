@@ -24,7 +24,7 @@ import com.google.common.collect.Multimap;
 
 public class ReportGenerator {
 
-	static final String rootFolder = "/Users/schwaaamp/Documents/Econome/Econome_Mailchimp_export_091221/";
+	static final String rootFolder = "/Users/schwaaamp/Documents/Econome/Econome_Mailchimp_export_102921/46727/";
 	static final File membersFolder = new File(rootFolder.concat("lists/members/"));
 	static final File openedEmailsFolder = new File(rootFolder.concat("aggregate_activity/opened/"));
 	static final File unopenedEmailsFolder = new File(rootFolder.concat("aggregate_activity/not_opened/"));

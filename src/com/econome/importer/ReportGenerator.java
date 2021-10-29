@@ -132,7 +132,6 @@ public class ReportGenerator {
 				}
 			}
 		}
-		//testing commit with personal access token
 		System.out.println("Finished determining the most recent open email timestamp by subscriber");
 	}
 
